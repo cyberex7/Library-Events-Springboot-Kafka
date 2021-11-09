@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="kafka-for-developers-using-spring-boot-master/library-events-consumer/src/main/java"/>
+	<classpathentry kind="src" path="kafka-for-developers-using-spring-boot-master/library-events-consumer/src/test/java/intg"/>
+	<classpathentry kind="src" path="kafka-for-developers-using-spring-boot-master/library-events-producer/src/main/java"/>
+	<classpathentry kind="src" path="kafka-for-developers-using-spring-boot-master/library-events-producer/src/test/java/intg"/>
+	<classpathentry kind="src" path="kafka-for-developers-using-spring-boot-master/library-events-producer/src/test/java/unit"/>
+	<classpathentry kind="lib" path="kafka-for-developers-using-spring-boot-master/library-events-consumer/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="kafka-for-developers-using-spring-boot-master/library-events-producer/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
